@@ -9,6 +9,7 @@ build
 dist
 .rpt2_cache
 .npmrc
+.netlify
 
 # misc
 .DS_Store
