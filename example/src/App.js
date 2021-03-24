@@ -6,6 +6,7 @@ import 'otp-manager-react/dist/index.css'
 const App = () => {
   function callback(res) {
     console.log('callback function')
+    
     console.log(res)
   }
   return (

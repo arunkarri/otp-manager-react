@@ -1,10 +1,9 @@
 {
-  "name": "@arunkarri/otp-manager-react",
+  "name": "otp-manager-react",
   "version": "1.0.9",
   "description": "A highly customizable and easy to use OTP Generator and verifier in React JS. Just import the library and send your inputs. It will generate the OTP, send to backend, and verify it once submitted. The OTP Expires in 5 mins. Will customise this in future if required.",
   "author": "Arun Kashyap Karri",
   "license": "MIT",
-  "repository": "https://github.com/arunkarri/otp-manager-react.git",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -29,7 +28,7 @@
     "url": "https://github.com/arunkarri/otp-manager-react/issues"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   },
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
