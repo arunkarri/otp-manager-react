@@ -87,9 +87,6 @@ export default App
   </a>
 </p>
 
-## Keywords
-
-otp manager, reactjs, react components
 
 ## License
  
