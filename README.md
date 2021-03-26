@@ -5,6 +5,8 @@
 
 [![NPM](https://img.shields.io/npm/v/otp-manager-react.svg)](https://www.npmjs.com/package/otp-manager-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+![image](https://user-images.githubusercontent.com/14010423/112599239-b241ce00-8e35-11eb-9073-b8d1d0fd1d9c.png)
+
 
 ## Github Repo
 
